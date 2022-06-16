@@ -25,4 +25,4 @@ Python should already be installed on your system.
 ## Todo
 
 - [ ] Automatically organize into folders
-- [ ] Scrape descriptions as well from species page
+- [ ] Scrape range maps (from species page) as well
