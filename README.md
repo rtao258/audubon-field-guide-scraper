@@ -18,9 +18,9 @@ Python should already be installed on your system.
 
 5. Copy and paste all of the HTML into a file named `audubon.html`.
 
-6. Move `audubon.html` and `audubon-scrape.py` into the same folder.
+6. Move `audubon.html` and `audubon-scraper.py` into the same folder.
 
-7. Run `audubon-scrape.py`.
+7. Run `audubon-scraper.py`.
 
 ## Todo
 
