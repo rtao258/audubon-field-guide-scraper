@@ -1,6 +1,6 @@
 # Audubon Field Guide Scraper
 
-This script scrapes the common name, scientific name, photo, and sound (if available) from the [Audubon Field Guide](https://www.audubon.org/bird-guide?field_bird_family_tid=All&field_bird_region_tid=All) into a text file for import into Anki or similar flashcard software. It also downloads the photo and sound files.
+This script scrapes the common name, scientific name, photo, sound (if available), and URL from the [Audubon Field Guide](https://www.audubon.org/bird-guide?field_bird_family_tid=All&field_bird_region_tid=All) into a text file for import into Anki or similar flashcard software. It also downloads the photo and sound files.
 
 This was whipped up very quickly, so the code is likely not optimal.
 

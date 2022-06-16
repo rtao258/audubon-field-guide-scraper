@@ -43,7 +43,9 @@ for bird_cell in bird_grid.find_all('div', recursive=False):
         logging.info('no sound')
         sound_html = ''
 
-    birds.append('; '.join([common_name, scientific_name, photo_html, sound_html]))
+    url = bird_card.find(class_='card-link')['href']
+
+    birds.append('; '.join([common_name, scientific_name, photo_html, sound_html, url]))
 
 with open('birds.txt', 'w') as text_file:
     for bird in birds:
