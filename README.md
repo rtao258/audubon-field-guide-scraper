@@ -4,8 +4,6 @@ This script scrapes the common name, scientific name, photo, and sound (if avail
 
 This was whipped up very quickly, so the code is likely not optimal.
 
-
-
 ## Instructions for use
 
 Python should already be installed on your system.
@@ -23,9 +21,8 @@ Python should already be installed on your system.
 6. Move `audubon.html` and `audubon-scrape.py` into the same folder.
 
 7. Run `audubon-scrape.py`.
-   
-   
 
 ## Todo
 
 - [ ] Automatically organize into folders
+- [ ] Scrape descriptions as well from species page
